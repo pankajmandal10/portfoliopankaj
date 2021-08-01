@@ -727,6 +727,19 @@ const experience = {
     {
       title: "Project Work",
       experiences: [
+
+        {
+          title: "Portfolio(Pankaj)",
+          company: "My Portfolio",
+          company_url:
+            "https://pankajmandal10.github.io/portfoliopankaj/",
+          logo_path: "github_logo.jpg",
+          duration: "Jan 2021 - july 2020",
+          location: "Home Project",
+          description:
+            "This is my portfolio website which Showcase my work skills and Exprience. To making this website have used Tech HTML CSS JavaScript react and redux.",
+          color: "#0C9D58",
+        },
         
         {
           title: "Covid-19 Traker",
@@ -734,7 +747,7 @@ const experience = {
           company_url: "https://pankajmandal10.github.io/covidtraker/",
           logo_path: "google_logo.jpg",
           duration: "July 2020 - August 2020",
-          location: "Hyderabad, Telangana",
+          location: "Home Project",
           description:
             "CovidTracker is an easy to use chrome extension to quickly check the current amount of COVID-19 cases, deaths, recorvery, and the probability of survival in any country/continent.",
           color: "#4285F4",
@@ -745,7 +758,7 @@ const experience = {
           company_url: "https://pankajmandal10.github.io/weatherapp/",
           logo_path: "microsoft_logo.jpg",
           duration: "June 2021 - June 2021",
-          location: "Hyderabad, Telangana",
+          location: "Home Project",
           description:
             "In this website we can check weather by searching city name. Tech used HTML CSS JavaScript API and ReactJs.",
           color: "#D83B01",
@@ -756,7 +769,7 @@ const experience = {
           company_url: "https://pankajmandal10.github.io/todolist/",
           logo_path: "mozilla_logo.jpg",
           duration: "July 2021 - July 2021",
-          location: "Kurnool, Andhra Pradesh",
+          location: "Home Project",
           description:
             "This is the Todo List website which you can Make list of multiple Items. Tech used in this website HTML CSS JavaScript and ReactJs.",
           color: "#000000",
@@ -768,11 +781,12 @@ const experience = {
             "http://onlineshikho.epizy.com/",
           logo_path: "dsc_logo.jpg",
           duration: "Jan 2020 - May 2020",
-          location: "Kurnool, Andhra Pradesh",
+          location: "Home Project",
           description:
             "From OnlineShikho.Com you can learn HTML, CSS, JavaScript, PHP, Python, Bootstrap, Jquery which you can build beautiful website. Here also code editer available for trying to your self.",
           color: "#0C9D58",
         },
+        
 		
         // {
         //   title: "Developer Program Member",

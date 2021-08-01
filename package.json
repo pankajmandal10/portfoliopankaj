@@ -1,12 +1,12 @@
 {
   "private": true,
-  "name": "MiftaulMannan",
-  "homepage": "https://tasin5541.github.io/portfolio/",
+  "name": "Pankajmandal",
+  "homepage": "https://pankajmandal10.github.io/portfoliopankaj",
   "version": "0.1.0",
   "scripts": {
-    "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-pages -d build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
