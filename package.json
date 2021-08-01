@@ -1,12 +1,7 @@
 {
   "private": true,
-<<<<<<< HEAD
-  "name": "Pankajmandal",
-  "homepage": "https://pankajmandal10.github.io/portfoliopankaj",
-=======
   "name": "PankajMandal",
   "homepage": "https://pankajmandal10.github.io/portfoliopankaj/",
->>>>>>> 4f81a4ba32ca2a3bea2bc50aaaf94833703bf8fb
   "version": "0.1.0",
   "scripts": {
     "predeploy": "npm run build",
