@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/portfoliopankaj/static/css/main.872caff8.chunk.css",
-    "main.js": "/portfoliopankaj/static/js/main.cc38b8ab.chunk.js",
-    "main.js.map": "/portfoliopankaj/static/js/main.cc38b8ab.chunk.js.map",
-    "runtime-main.js": "/portfoliopankaj/static/js/runtime-main.fc399830.js",
-    "runtime-main.js.map": "/portfoliopankaj/static/js/runtime-main.fc399830.js.map",
-    "static/js/2.fd83c2f2.chunk.js": "/portfoliopankaj/static/js/2.fd83c2f2.chunk.js",
-    "static/js/2.fd83c2f2.chunk.js.map": "/portfoliopankaj/static/js/2.fd83c2f2.chunk.js.map",
+    "main.css": "/portfoliopankaj/static/css/main.68e4f1b7.chunk.css",
+    "main.js": "/portfoliopankaj/static/js/main.3b801198.chunk.js",
+    "main.js.map": "/portfoliopankaj/static/js/main.3b801198.chunk.js.map",
+    "runtime-main.js": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js",
+    "runtime-main.js.map": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js.map",
+    "static/js/2.078e259b.chunk.js": "/portfoliopankaj/static/js/2.078e259b.chunk.js",
+    "static/js/2.078e259b.chunk.js.map": "/portfoliopankaj/static/js/2.078e259b.chunk.js.map",
     "index.html": "/portfoliopankaj/index.html",
-    "precache-manifest.78ae0e746bc05d6fc6c84e9b380485c7.js": "/portfoliopankaj/precache-manifest.78ae0e746bc05d6fc6c84e9b380485c7.js",
+    "precache-manifest.ea3a215a51bad26a70185456d6f34fa6.js": "/portfoliopankaj/precache-manifest.ea3a215a51bad26a70185456d6f34fa6.js",
     "service-worker.js": "/portfoliopankaj/service-worker.js",
-    "static/css/main.872caff8.chunk.css.map": "/portfoliopankaj/static/css/main.872caff8.chunk.css.map",
-    "static/js/2.fd83c2f2.chunk.js.LICENSE.txt": "/portfoliopankaj/static/js/2.fd83c2f2.chunk.js.LICENSE.txt",
+    "static/css/main.68e4f1b7.chunk.css.map": "/portfoliopankaj/static/css/main.68e4f1b7.chunk.css.map",
+    "static/js/2.078e259b.chunk.js.LICENSE.txt": "/portfoliopankaj/static/js/2.078e259b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfoliopankaj/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/portfoliopankaj/static/media/address_image.3b021f8f.svg",
     "static/media/android-icon-36x36.png": "/portfoliopankaj/static/media/android-icon-36x36.871b519c.png",
     "static/media/android.svg": "/portfoliopankaj/static/media/android.e5c4ba08.svg",
     "static/media/animated_logo.svg": "/portfoliopankaj/static/media/animated_logo.52e0714e.svg",
-    "static/media/aust.png": "/portfoliopankaj/static/media/aust.a69e1b34.png",
     "static/media/blogs_image.svg": "/portfoliopankaj/static/media/blogs_image.b6b12c7d.svg",
     "static/media/cloud_infrastructure.svg": "/portfoliopankaj/static/media/cloud_infrastructure.dfcb7a58.svg",
     "static/media/codeInLogo.png": "/portfoliopankaj/static/media/codeInLogo.b3685be8.png",
@@ -35,6 +34,7 @@
     "static/media/feelingProud.svg": "/portfoliopankaj/static/media/feelingProud.a73310ea.svg",
     "static/media/fullstack.svg": "/portfoliopankaj/static/media/fullstack.589bec7d.svg",
     "static/media/gcp_logo.png": "/portfoliopankaj/static/media/gcp_logo.ba18401b.png",
+    "static/media/github_logo.jpg": "/portfoliopankaj/static/media/github_logo.1e0f0080.jpg",
     "static/media/github_logo.png": "/portfoliopankaj/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/portfoliopankaj/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/portfoliopankaj/static/media/googleAssistant.c24ba791.svg",
@@ -64,9 +64,9 @@
     "static/media/ui_ux_design.svg": "/portfoliopankaj/static/media/ui_ux_design.67a6a11c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc399830.js",
-    "static/js/2.fd83c2f2.chunk.js",
-    "static/css/main.872caff8.chunk.css",
-    "static/js/main.cc38b8ab.chunk.js"
+    "static/js/runtime-main.9ec3ca86.js",
+    "static/js/2.078e259b.chunk.js",
+    "static/css/main.68e4f1b7.chunk.css",
+    "static/js/main.3b801198.chunk.js"
   ]
 }

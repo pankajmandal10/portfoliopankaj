@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b32797fb1e4e697774262822d1d4ab27",
+    "revision": "eef2a6eabe95f909a9074831571c3421",
     "url": "/portfoliopankaj/index.html"
   },
   {
-    "revision": "a89fb3350679957e11ac",
-    "url": "/portfoliopankaj/static/css/main.872caff8.chunk.css"
+    "revision": "6e5503c29f75bd8bb064",
+    "url": "/portfoliopankaj/static/css/main.68e4f1b7.chunk.css"
   },
   {
-    "revision": "198ce65ea206e212c333",
-    "url": "/portfoliopankaj/static/js/2.fd83c2f2.chunk.js"
+    "revision": "e482fa53e50f3063efd8",
+    "url": "/portfoliopankaj/static/js/2.078e259b.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/portfoliopankaj/static/js/2.fd83c2f2.chunk.js.LICENSE.txt"
+    "url": "/portfoliopankaj/static/js/2.078e259b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a89fb3350679957e11ac",
-    "url": "/portfoliopankaj/static/js/main.cc38b8ab.chunk.js"
+    "revision": "6e5503c29f75bd8bb064",
+    "url": "/portfoliopankaj/static/js/main.3b801198.chunk.js"
   },
   {
-    "revision": "6c31acf8fc3396e4494d",
-    "url": "/portfoliopankaj/static/js/runtime-main.fc399830.js"
+    "revision": "867d1cb003c518858439",
+    "url": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
     "url": "/portfoliopankaj/static/media/animated_logo.52e0714e.svg"
-  },
-  {
-    "revision": "a69e1b3418b00f8188170b69a69a148b",
-    "url": "/portfoliopankaj/static/media/aust.a69e1b34.png"
   },
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
@@ -198,6 +194,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ba18401b15f40a463898b706cc6ff08c",
     "url": "/portfoliopankaj/static/media/gcp_logo.ba18401b.png"
+  },
+  {
+    "revision": "1e0f0080e29a5f4d9ece5efbe9269843",
+    "url": "/portfoliopankaj/static/media/github_logo.1e0f0080.jpg"
   },
   {
     "revision": "e64de169a4222787bc49f3706282ef96",
