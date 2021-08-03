@@ -99,7 +99,7 @@ const ContactIn = () => {
          name="message"
          value={user.message}
          onChange={getUserData}
-         placeholder="Write Message here*..." 
+         placeholder="Write Message here*." 
          cols="46"
          rows="10"
          required
