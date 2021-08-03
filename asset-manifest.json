@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfoliopankaj/static/css/main.9e3115bf.chunk.css",
-    "main.js": "/portfoliopankaj/static/js/main.aeae4871.chunk.js",
-    "main.js.map": "/portfoliopankaj/static/js/main.aeae4871.chunk.js.map",
+    "main.css": "/portfoliopankaj/static/css/main.e98d7ee8.chunk.css",
+    "main.js": "/portfoliopankaj/static/js/main.6f5eeb6d.chunk.js",
+    "main.js.map": "/portfoliopankaj/static/js/main.6f5eeb6d.chunk.js.map",
     "runtime-main.js": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js",
     "runtime-main.js.map": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js.map",
     "static/js/2.b40b14bd.chunk.js": "/portfoliopankaj/static/js/2.b40b14bd.chunk.js",
     "static/js/2.b40b14bd.chunk.js.map": "/portfoliopankaj/static/js/2.b40b14bd.chunk.js.map",
     "index.html": "/portfoliopankaj/index.html",
-    "precache-manifest.0229a0129c6de047b2da8e2c8a8ba91b.js": "/portfoliopankaj/precache-manifest.0229a0129c6de047b2da8e2c8a8ba91b.js",
+    "precache-manifest.d59dc45a7f087f81ca6cb5ff2bef25ac.js": "/portfoliopankaj/precache-manifest.d59dc45a7f087f81ca6cb5ff2bef25ac.js",
     "service-worker.js": "/portfoliopankaj/service-worker.js",
-    "static/css/main.9e3115bf.chunk.css.map": "/portfoliopankaj/static/css/main.9e3115bf.chunk.css.map",
+    "static/css/main.e98d7ee8.chunk.css.map": "/portfoliopankaj/static/css/main.e98d7ee8.chunk.css.map",
     "static/js/2.b40b14bd.chunk.js.LICENSE.txt": "/portfoliopankaj/static/js/2.b40b14bd.chunk.js.LICENSE.txt",
     "static/media/index.css": "/portfoliopankaj/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/address_image.svg": "/portfoliopankaj/static/media/address_image.3b021f8f.svg",
@@ -66,7 +66,7 @@
   "entrypoints": [
     "static/js/runtime-main.9ec3ca86.js",
     "static/js/2.b40b14bd.chunk.js",
-    "static/css/main.9e3115bf.chunk.css",
-    "static/js/main.aeae4871.chunk.js"
+    "static/css/main.e98d7ee8.chunk.css",
+    "static/js/main.6f5eeb6d.chunk.js"
   ]
 }
