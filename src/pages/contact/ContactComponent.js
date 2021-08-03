@@ -9,6 +9,7 @@ import AddressImg from "./AddressImg";
 import { Fade } from "react-reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
+import ContactIn from "../../containers/contact/ContactIn";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -136,6 +137,9 @@ class Contact extends Component {
               </div>
             </div>
           </Fade>
+          <div className="contactIn">
+            <ContactIn />
+           </div>
         </div>
         <TopButton theme={this.props.theme} />
       </div>

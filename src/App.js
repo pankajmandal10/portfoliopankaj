@@ -60,7 +60,7 @@ function App() {
         <Toggle theme={theme} toggleTheme={toggleTheme} />
         <Footer theme={themeMode} />
       </>
-    </ThemeProvider>
+   </ThemeProvider>
   );
 }
 
