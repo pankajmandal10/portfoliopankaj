@@ -10,10 +10,7 @@ Please give a star and link to this repo in your website, so that the project ca
 
 # Demo
 To view a live demo, **[click here](https://pankajmandal10.github.io/portfoliopankaj/)**
-<<<<<<< HEAD
 
-=======
->>>>>>> 4f81a4ba32ca2a3bea2bc50aaaf94833703bf8fb
 # Toggle Theme
 <p align="center"> 
     <img src="images/toggle.gif" align="center"></img>
