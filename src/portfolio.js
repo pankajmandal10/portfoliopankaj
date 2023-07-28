@@ -13,7 +13,7 @@ const greeting = {
   subTitle:
     "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
   resumeLink:
-    "https://drive.google.com/file/d/1wE6h9GTCXyjjDH51zMpBL0P_l7n_4H1a/view?usp=sharing",
+    "https://drive.google.com/file/d/1fhD05N3XzLGnnGP3WN1oF4BEj4P82e3r/view",
   portfolio_repository: "https://github.com/pankajmandal10",
 };
 
