@@ -19,9 +19,9 @@ export default function Greeting(props) {
               <h1 className="greeting-text" style={{ color: theme.text }}>
                 {greeting.title}
               </h1>
-              <h2 className="greeting-nickname" style={{ color: theme.text }}>
+              {/* <h2 className="greeting-nickname" style={{ color: theme.text }}>
                 ( {greeting.nickname} )
-              </h2>
+              </h2> */}
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
@@ -38,16 +38,22 @@ export default function Greeting(props) {
                   className="portfolio-repo-btn"
                 />
               </div> */}
-               <div className="button-greeting-div">
-              <Button
+              <div className="button-greeting-div">
+                <Button
                   text="⭐ Follow Me On Github"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
                   className="portfolio-repo-btn"
                 />
-              <Button text="See My Resume" newTab={true} href={greeting.resumeLink} theme={theme} className="portfolio-repo-btn" style={{marginLeft: '1rem'}}/>
-            </div> 
+                <Button
+                  text="Download Resume"
+                  className="resume-button"
+                  href={greeting.resumeLink}
+                  theme={{ body: "#ffffff", text: "#000000" }}
+                  download="resume.pdf"
+                />
+              </div>
             </div>
           </div>
           <div className="greeting-image-div">

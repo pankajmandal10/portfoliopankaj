@@ -13,13 +13,21 @@ const onMouseOut = (event, color, bgColor) => {
   el.style.backgroundColor = bgColor;
 };
 
-export default function Button({ text, className, href, newTab, theme }) {
+export default function Button({
+  text,
+  className,
+  href,
+  newTab,
+  theme,
+  download,
+}) {
   return (
     <div className={className}>
       <a
-        class="main-button"
+        className="main-button"
         href={href}
-        target={newTab && "_blank"}
+        target={newTab ? "_blank" : "_self"}
+        download={download} // Enables downloading if download is true
         style={{
           color: theme.body,
           backgroundColor: theme.text,

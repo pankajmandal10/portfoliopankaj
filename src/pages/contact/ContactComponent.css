@@ -2,7 +2,6 @@
   width: 100vw;
 }
 
-
 .basic-contact {
   margin-left: 5%;
   margin-right: 5%;
@@ -60,7 +59,7 @@
 }
 
 .contact-heading-img-div > * {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
 }
 
@@ -202,5 +201,4 @@
     line-height: normal;
     text-align: center;
   }
-  
 }

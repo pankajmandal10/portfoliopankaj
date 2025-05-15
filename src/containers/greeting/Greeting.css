@@ -35,7 +35,7 @@
 
 .greeting-text {
   margin-top: 80px;
-  font-size: 70px;
+  font-size: 65px;
   line-height: 1.1;
   font-family: "Google Sans Bold";
 }
@@ -47,7 +47,7 @@
 }
 
 .greeting-text-p {
-  font-size: 40px;
+  font-size: 25px;
   line-height: 40px;
   margin-right: 40px;
   font-family: "Google Sans Medium";
@@ -90,9 +90,9 @@
     display: block;
   }
 
-  .button-greeting-div{
+  .button-greeting-div {
     flex-direction: column;
-    align-items:center;
+    align-items: center;
     margin-right: 0;
   }
 

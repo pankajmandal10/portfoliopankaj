@@ -47,10 +47,11 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="See My Resume"
-                    newTab={true}
+                    text="Download Resume"
+                    className="resume-button"
                     href={greeting.resumeLink}
-                    theme={theme}
+                    theme={{ body: "#ffffff", text: "#000000" }}
+                    download="resume.pdf"
                   />
                 </div>
               </div>
@@ -139,7 +140,7 @@ class Contact extends Component {
           </Fade>
           <div className="contactIn">
             <ContactIn />
-           </div>
+          </div>
         </div>
         <TopButton theme={this.props.theme} />
       </div>
