@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97b2cbf4761855fcf928da78791e53a4",
+    "revision": "e8e5da1b6653f08832f663a8078c958e",
     "url": "/portfoliopankaj/index.html"
   },
   {
-    "revision": "eed614cd382c35bd83e9",
-    "url": "/portfoliopankaj/static/css/main.32144f01.chunk.css"
+    "revision": "c70c87689447471b39f4",
+    "url": "/portfoliopankaj/static/css/main.fa6dfb48.chunk.css"
   },
   {
-    "revision": "748665e9a4b0570512a2",
-    "url": "/portfoliopankaj/static/js/2.b40b14bd.chunk.js"
+    "revision": "577f2d223aaf742de5f1",
+    "url": "/portfoliopankaj/static/js/2.42edc1d9.chunk.js"
   },
   {
-    "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/portfoliopankaj/static/js/2.b40b14bd.chunk.js.LICENSE.txt"
+    "revision": "1cd8323dc88584766ceceaede38c57bd",
+    "url": "/portfoliopankaj/static/js/2.42edc1d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eed614cd382c35bd83e9",
-    "url": "/portfoliopankaj/static/js/main.6f5eeb6d.chunk.js"
+    "revision": "c70c87689447471b39f4",
+    "url": "/portfoliopankaj/static/js/main.07e47002.chunk.js"
   },
   {
-    "revision": "867d1cb003c518858439",
-    "url": "/portfoliopankaj/static/js/runtime-main.9ec3ca86.js"
+    "revision": "1d1bb78e9f9354d690f7",
+    "url": "/portfoliopankaj/static/js/runtime-main.733c2e5b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
     "url": "/portfoliopankaj/static/media/contactMail.d6d4086f.png"
+  },
+  {
+    "revision": "58121aefd365bc55903ec046b4717f24",
+    "url": "/portfoliopankaj/static/media/dalvkot_logo.58121aef.png"
   },
   {
     "revision": "434d2b012c3efc3da1ef90549a50f46b",
@@ -228,6 +232,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfoliopankaj/static/media/intel_logo.29152cf7.jpg"
   },
   {
+    "revision": "9a50f0e2b6de4e9347d50b61acfe95d7",
+    "url": "/portfoliopankaj/static/media/jnj_logo.9a50f0e2.png"
+  },
+  {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
     "url": "/portfoliopankaj/static/media/jsFramework.b05ae5b5.svg"
   },
@@ -280,6 +288,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfoliopankaj/static/media/pwa.bd5f4148.png"
   },
   {
+    "revision": "062624826c449e7ad733b4b5ff377de7",
+    "url": "/portfoliopankaj/static/media/relex_logo.06262482.webp"
+  },
+  {
     "revision": "3440939881da8339d1597e8d77cdf850",
     "url": "/portfoliopankaj/static/media/skill.34409398.svg"
   },
@@ -300,8 +312,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfoliopankaj/static/media/talksCardBackAlt.b48e86c9.svg"
   },
   {
-    "revision": "871b519c05149abbe11b86d9386165ae",
-    "url": "/portfoliopankaj/static/media/tasin.871b519c.png"
+    "revision": "755f5885cc617dc7a97db38a7776166f",
+    "url": "/portfoliopankaj/static/media/tasin.755f5885.png"
   },
   {
     "revision": "67a6a11c47edafb87cf24da66afe3dca",
